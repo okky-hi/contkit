@@ -138,6 +138,7 @@ const links = [
 const IndexPage: React.FC<PageProps> = () => {
   return (
     <main style={pageStyles}>
+      <div>これはforkのテストです。</div>
       <h1 style={headingStyles}>
         Congratulations
         <br />
